@@ -1,5 +1,5 @@
 # Nightscout Deutsch Version
-**Nightscout user guide
+* Nightscout user guide
 
 
 # Current Status:
