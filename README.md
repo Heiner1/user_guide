@@ -1,4 +1,4 @@
-# Nightscout Deutsch Version
+# Nightscout Deutsche Version
 * Nightscout user guide
 
 
