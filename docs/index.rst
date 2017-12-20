@@ -1,4 +1,4 @@
-Welcome to AndroidAPS documentation!
+Welcome to Nightscout documentation!
 ====================================
 
 
