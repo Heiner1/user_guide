@@ -1,4 +1,4 @@
-Welcome to Nightscout documentation!
+Welcome to the Nightscout documentation!
 ====================================
 
 
